@@ -2,8 +2,8 @@
 
 ## Best practices
 
-Language codes should be used at the level of [ISO_639-3](https://en.wikipedia.org/wiki/ISO_639-3) to account for dialects, e.g. 'spa' for Castillian Spanish.
-Genders are coded according to [ISO/IEC_5218](https://en.wikipedia.org/wiki/ISO/IEC_5218), i.e. 0=unknown, 1=male, 2=female, 9=na.
+- Language codes should be used at the level of [ISO_639-3](https://en.wikipedia.org/wiki/ISO_639-3) to account for dialects, e.g. 'spa' for Castillian Spanish.
+- Genders are coded according to [ISO/IEC_5218](https://en.wikipedia.org/wiki/ISO/IEC_5218), i.e. 0=unknown, 1=male, 2=female, 9=na.
 
 ## To do / decide
 
